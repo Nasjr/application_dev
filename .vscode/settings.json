@@ -1,0 +1,5 @@
+{
+    "typescript.experimental.aiQuickFix": true,
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "E:/flutter projects/Application_dev/application_dev/linux"
+}
