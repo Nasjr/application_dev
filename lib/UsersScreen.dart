@@ -5,20 +5,17 @@ import 'package:flutter/material.dart';
 
 class UserScreen extends StatelessWidget {
   List<UserModel> users = [
-    UserModel(2010, "Mahmoud Nasser", "0115g3453880"),
-    UserModel(22, "Mahmoud Nasser", "0115g3453880"),
-    UserModel(12, "Mahmoud Ahmed", "011533453880"),
-    UserModel(21, "Mahmoud Ibrahim", "011533453880"),
-    UserModel(12, "Mahmoud hemeda", "011533453880"),
-    UserModel(11, "Mahmoud abo", "011533453880"),
-    UserModel(12, "Mahmoud Ahmed", "011533453880"),
-    UserModel(21, "Mahmoud Ibrahim", "011533453880"),
-    UserModel(12, "Mahmoud hemeda", "011533453880"),
-    UserModel(11, "Mahmoud abo", "011533453880"),
-    UserModel(12, "Mahmoud Ahmed", "011533453880"),
-    UserModel(21, "Mahmoud Ibrahim", "011533453880"),
-    UserModel(12, "Mahmoud hemeda", "011533453880"),
-    UserModel(11, "Mahmoud abo", "011533453880"),
+    UserModel(2010, "Mahmoud Nasser", "01152020341"),
+    UserModel(22, "Mahmoud Nasser", "01152020341"),
+    UserModel(12, "Mahmoud Ahmed", "01152020341"),
+    UserModel(21, "Mahmoud Ibrahim", "01152020341"),
+    UserModel(12, "Mahmoud hemeda", "01152020331"),
+    UserModel(11, "Mahmoud abo", "01152020341"),
+    UserModel(12, "Mahmoud Ahmed", "01132020341"),
+    UserModel(21, "Mahmoud Ibrahim", "01153343333"),
+    UserModel(12, "Mahmoud hemeda", "01133333"),
+    UserModel(11, "Mahmoud abo", "01155456880"),
+    UserModel(12, "Mahmoud Ahmed", "01155386680"),
   ];
   @override
   Widget build(BuildContext context) {
